@@ -1,0 +1,45 @@
+/* @override http://localhost/wp-nop/wp-content/plugins/wpmob-lite/themes/Poseidon/skins/black-red.css */
+
+/* 
+Skin Name: Black-Red
+*/
+
+/* === LOGO === */
+#logo a:hover {
+  color: #E42E2E;
+}
+
+/* === MENU === */
+#menu ul {
+  list-style-image: url(black-red/list-image.png);
+}
+
+/* === FOOTER === */
+#footer .copyright {
+  color: #8C0E0E;
+}
+
+/* === CUSTOM === */
+.hr {
+  background: #450909;
+}
+
+/* === STYLES === */
+a {
+  color: #E42E2E;
+}
+a:hover {
+  color: #E64040;
+}
+blockquote {
+  background-image: url(black-red/quote-begin.png);
+}
+blockquote div.quote-end {
+  background-image: url(black-red/quote-end.png);
+}
+table {
+  border-color: #450909;
+}
+td, th {
+  border-color: #450909;
+}

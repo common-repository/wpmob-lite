@@ -1,0 +1,45 @@
+/* @override http://localhost/wp-nop/wp-content/plugins/wpmob-lite/themes/Poseidon/skins/black-orange.css */
+
+/* 
+Skin Name: Black-Orange
+*/
+
+/* === LOGO === */
+#logo a:hover {
+  color: #E08C07;
+}
+
+/* === MENU === */
+#menu ul {
+  list-style-image: url(black-orange/list-image.png);
+}
+
+/* === FOOTER === */
+#footer .copyright {
+  color: #9B4500;
+}
+
+/* === CUSTOM === */
+.hr {
+  background: #352412;
+}
+
+/* === STYLES === */
+a {
+  color: #E08C07;
+}
+a:hover {
+  color: #E6A407;
+}
+blockquote {
+  background-image: url(black-orange/quote-begin.png);
+}
+blockquote div.quote-end {
+  background-image: url(black-orange/quote-end.png);
+}
+table {
+  border-color: #352412;
+}
+td, th {
+  border-color: #352412;
+}

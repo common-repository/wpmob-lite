@@ -1,0 +1,1 @@
+<p class="copytext"><?php wpmob_the_tab_setting_desc(); ?></p>

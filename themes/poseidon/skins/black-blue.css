@@ -1,0 +1,46 @@
+/* @override http://localhost/wp-nop/wp-content/plugins/wpmob-lite/themes/Poseidon/skins/black-blue.css.css */
+
+/* 
+Skin Name: Black-Blue
+*/
+
+
+/* === LOGO === */
+#logo a:hover {
+  color: #4697D3;
+}
+
+/* === MENU === */
+#menu ul {
+  list-style-image: url(black-blue/list-image.png);
+}
+
+/* === FOOTER === */
+#footer .copyright {
+  color: #0f4369;
+}
+
+/* === CUSTOM === */
+.hr {
+  background: #051E31;
+}
+
+/* === STYLES === */
+a {
+  color: #4697D3;
+}
+a:hover {
+  color: #57B9E9;
+}
+blockquote {
+  background-image: url(black-blue/quote-begin.png);
+}
+blockquote div.quote-end {
+  background-image: url(black-blue/quote-end.png);
+}
+table {
+  border-color: #051E31;
+}
+td, th {
+  border-color: #051E31;
+}

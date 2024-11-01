@@ -1,0 +1,1 @@
+<div id="wpmob-license-area"><?php _e( "Loading licenses from the BNC server...", "wpmob-lite" ); ?></div>
